@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[dnjubao.plugin]]></item>
+	<item id="RevisionID"><![CDATA[58463]]></item>
+	<item id="SN"><![CDATA[2022082009n7u78Wj8du]]></item>
+	<item id="RevisionDateline"><![CDATA[1448344804]]></item>
+	<item id="Data">
+		<item id="/discuz_plugin_dnjubao_SC_UTF8.xml"><![CDATA[a1f2b8437747133077937b1fc4bba381]]></item>
+		<item id="/template/dnjubao.htm"><![CDATA[8324ad8d37e46c51667cc9e7dae0663e]]></item>
+		<item id="/dnjubao_admin.inc.php"><![CDATA[841c9a6d60433a3e69b3dfb13ed2cba7]]></item>
+		<item id="/uninstall.php"><![CDATA[f49b84f9701778d09ef18ba1d249d163]]></item>
+		<item id="/table/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/table/table_dnjubao.php"><![CDATA[065873e2cc96cc6541c5c8cc5ba394e2]]></item>
+		<item id="/install.php"><![CDATA[221a28fcb012ac7daf3cfb9746ee9b9c]]></item>
+		<item id="/discuz_plugin_dnjubao_TC_UTF8.xml"><![CDATA[9fa8bcf6b9a1ab7a8287166950386563]]></item>
+		<item id="/dnjubao.inc.php"><![CDATA[f02bfe67c3708c2ef1fccc4ba7abee9f]]></item>
+	</item>
+</root>

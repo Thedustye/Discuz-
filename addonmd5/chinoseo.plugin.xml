@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[chinoseo.plugin]]></item>
+	<item id="RevisionID"><![CDATA[93589]]></item>
+	<item id="SN"><![CDATA[2022082009PBZFpRPBgC]]></item>
+	<item id="RevisionDateline"><![CDATA[1660543457]]></item>
+	<item id="Data">
+		<item id="/touchHook.class.php"><![CDATA[b51e70c7da4fccafa091c4b3397a4cc4]]></item>
+		<item id="/function/function.php"><![CDATA[9091726e05730861fa51e26639f17a1d]]></item>
+		<item id="/pcHook.class.php"><![CDATA[33d1aebbe6e881e19a008119d03385d9]]></item>
+		<item id="/chinoseo.inc.php"><![CDATA[0db867574087b0f8134d601ee7e48ace]]></item>
+		<item id="/index.html"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/uninstall.php"><![CDATA[04f90c2a94a876a621c5cf435988b610]]></item>
+		<item id="/discuz_plugin_chinoseo_TC_UTF8.xml"><![CDATA[ac7426b1e34f63240f8f496f1cd354fd]]></item>
+		<item id="/table/table_chinoseo.php"><![CDATA[29b13d6ecdd76d5146fd6f929cab8741]]></item>
+		<item id="/table/table_member.php"><![CDATA[6e8bdecbd90cf87c929f38b9d07d77ec]]></item>
+		<item id="/install.php"><![CDATA[a94599f5b0f617bd0c079df9a7ad4cb6]]></item>
+		<item id="/panelLog.inc.php"><![CDATA[4a2946b29be83a38082112eee8fae246]]></item>
+		<item id="/discuz_plugin_chinoseo_SC_UTF8.xml"><![CDATA[9666b3bf5dbb6d7e617f1f7349193260]]></item>
+	</item>
+</root>

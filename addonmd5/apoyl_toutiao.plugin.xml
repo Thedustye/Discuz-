@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[apoyl_toutiao.plugin]]></item>
+	<item id="RevisionID"><![CDATA[90513]]></item>
+	<item id="SN"><![CDATA[2022082008aWE8aHpKea]]></item>
+	<item id="RevisionDateline"><![CDATA[1657787482]]></item>
+	<item id="Data">
+		<item id="/mbtoutiao.class.php"><![CDATA[4515fde40ea1f00304ea503d4a101a8e]]></item>
+		<item id="/adminhelp.inc.php"><![CDATA[0eefd2003c5c50c608496f6be8ff8267]]></item>
+		<item id="/discuz_plugin_apoyl_toutiao_SC_UTF8.xml"><![CDATA[7f7540b8b4dccd631f7335b19ebdf383]]></item>
+		<item id="/toutiao.class.php"><![CDATA[54ca574418dfe614ac11852710a8bb33]]></item>
+		<item id="/discuz_plugin_apoyl_toutiao_TC_UTF8.xml"><![CDATA[3b37f68945a2964fac9492de4c3dc791]]></item>
+	</item>
+</root>

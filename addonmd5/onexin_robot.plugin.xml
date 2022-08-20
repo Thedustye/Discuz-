@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[onexin_robot.plugin]]></item>
+	<item id="RevisionID"><![CDATA[12650]]></item>
+	<item id="SN"><![CDATA[2022082008Cb8mS70sFB]]></item>
+	<item id="RevisionDateline"><![CDATA[1660212916]]></item>
+	<item id="Data">
+		<item id="/discuz_plugin_onexin_robot_TC_UTF8.xml"><![CDATA[313d7bf75d2ffd00c2bbe7a93b6cb7b2]]></item>
+		<item id="/onexin_robot.inc.php"><![CDATA[43f719d927c27d3878e84a1b80f7b12a]]></item>
+		<item id="/template/index.htm"><![CDATA[c99f2dc96fa1c41b4c193f1600d3986f]]></item>
+		<item id="/template/touch/index.htm"><![CDATA[8067468e0a10972908fcaaae7ab2eb1b]]></item>
+		<item id="/onexin_readme.inc.php"><![CDATA[71758ae86c85ef19cd4aca7150506a6d]]></item>
+		<item id="/onexin_robot.class.php"><![CDATA[366e34753acad7c4a1bfaf1433516025]]></item>
+		<item id="/discuz_plugin_onexin_robot_SC_UTF8.xml"><![CDATA[aa34198440d0b0cfae6548823924b269]]></item>
+		<item id="/res/onexin_robot.png"><![CDATA[593f61dc73461a9dd258d5c420d1a09f]]></item>
+	</item>
+</root>
